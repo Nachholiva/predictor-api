@@ -24,8 +24,8 @@ A high-performance REST API for cryptocurrency trading analysis powered by machi
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/crypto-predictor.git
-   cd crypto-predictor
+   git clone https://github.com/Nachholiva/predictor-api.git
+   cd predictor-api
    ```
 
 2. **Set up a virtual environment (recommended):**
