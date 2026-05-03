@@ -2,18 +2,18 @@
 
 A high-performance REST API for cryptocurrency trading analysis powered by machine learning. Built with FastAPI, this service delivers real-time predictions, technical analysis, and market insights for various trading pairs.
 
-## ✨ Features
+##  Features
 
-- 🔮 **Price Predictions**: ML-based predictions for short-term price movements
-- 📊 **Multi-Timeframe Analysis**: Analyze opportunities across different time intervals
-- 🔄 **Trading Pair Comparison**: Compare multiple trading pairs simultaneously
-- 📈 **Technical Indicators**: RSI, MACD, SMA, Bollinger Bands, and more
-- 🎯 **Support/Resistance Levels**: Automatic calculation of key price levels
-- ⚡ **Optimized Performance**: Efficient data handling with Binance Data API
-- 🛡️ **Robust Error Handling**: Comprehensive rate limiting and retry mechanisms
-- 📝 **Detailed Logging**: Comprehensive logging for monitoring and debugging
+- **Price Predictions**: ML-based predictions for short-term price movements
+- **Multi-Timeframe Analysis**: Analyze opportunities across different time intervals
+- **Trading Pair Comparison**: Compare multiple trading pairs simultaneously
+- **Technical Indicators**: RSI, MACD, SMA, Bollinger Bands, and more
+- **Support/Resistance Levels**: Automatic calculation of key price levels
+- **Optimized Performance**: Efficient data handling with Binance Data API
+- **Robust Error Handling**: Comprehensive rate limiting and retry mechanisms
+- **Detailed Logging**: Comprehensive logging for monitoring and debugging
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 
